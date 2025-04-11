@@ -1,4 +1,4 @@
-# crafty_bay
+# Crafty_Bay
 
 A new Flutter project.
 
